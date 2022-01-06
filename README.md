@@ -1,2 +1,2 @@
 # ntua-algorithms
-:abacus: Assignments for the course "Algorithms" @ ECE NTUA
+:abacus: Lab assignments for the course "Algorithms" @ ECE NTUA
